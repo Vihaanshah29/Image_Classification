@@ -1,6 +1,6 @@
 ## Image Classification
 
-### This repositoory contains photos of apparels, mainly Bottom Wear and Top Wear. Main aim is to get hands on practice of how an image classfication works and what internally things are happning.
+### This repository contains photos of apparels, mainly Bottom Wear and Top Wear. Main aim is to get hands on practice of how an image classfication works and what internally things are happning.
 
 #### Main aim is to classfiy bottom and top wear for a business use case. The data is manually gathered and annotate. 
 
