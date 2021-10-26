@@ -8,8 +8,10 @@
 
 Epoch 1/3
 24/24 [==============================] - 12s 480ms/step - loss: 0.8016 - accuracy: 0.7237 - val_loss: 0.2586 - val_accuracy: 0.9301
+
 Epoch 2/3
 24/24 [==============================] - 11s 472ms/step - loss: 0.2645 - accuracy: 0.8922 - val_loss: 0.1218 - val_accuracy: 0.9624
+
 Epoch 3/3
 24/24 [==============================] - 11s 470ms/step - loss: 0.1753 - accuracy: 0.9407 - val_loss: 0.1260 - val_accuracy: 0.9624
 
